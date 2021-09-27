@@ -4,7 +4,7 @@ title: About
 ---
 
 ### Sobre mí
-Filógoga interesada en Digital Humanities
+Filóloga interesada en Digital Humanities
 
 ### Contacto
 [evamariarodrigo@gmail.com](mailto: evamariarodrigo@gmail.com)
