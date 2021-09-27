@@ -1,9 +1,9 @@
 # Site navigation links
 
 - title: Portfolio
-  url: /portfolio/
+  url: portfolio/
   excerpt: "Los proyectos del bootcamp"
   image: bio-photo.jpg
 
 - title: About
-  url: /about/
+  url: about/
