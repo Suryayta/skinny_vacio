@@ -7,4 +7,4 @@ title: About
 Filógoga interesada en Digital Humanities
 
 ### Contacto
-(evamariarodrigo@gmail.com)[mail to: evamariarodrigo@gmail.com]
+[evamariarodrigo@gmail.com](mailto: evamariarodrigo@gmail.com)
