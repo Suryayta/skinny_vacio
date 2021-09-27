@@ -17,7 +17,6 @@ Está basado en este dashboard, cuyo código puedes encontrar en este GitHub. Lo
 
 Hay que replicar el siguiente dashboard:
 
-    <div>
         
                 <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
         <script type="text/javascript">/**
@@ -96,4 +95,3 @@ var n,a=t("./lib/build-log"),i=t("./lib/epsilon"),o=t("./lib/intersecter"),s=t("
                 };
                 
             </script>
-        </div>
